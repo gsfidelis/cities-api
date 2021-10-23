@@ -58,4 +58,3 @@ CREATE EXTENSION earthdistance;
 * [earthdistance--1.0--1.1.sql](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.0--1.1.sql)
 * [OPERATOR <@>](https://github.com/postgres/postgres/blob/master/contrib/earthdistance/earthdistance--1.1.sql)
 * [postgrescheatsheet](https://postgrescheatsheet.com/#/tables)
-* [datatype-geometric]
